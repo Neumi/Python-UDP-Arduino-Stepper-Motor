@@ -7,6 +7,8 @@ Test connection from python device with <code>ping 192.168.2.10</code> Check Net
 
 Assemble the Arduino Ethernet Shield and the Motor + driver as shown in the schcematic.
 
+![Schematic](https://raw.githubusercontent.com/Neumi/Python-UDP-Arduino-Stepper-Motor/master/schematic.png)
+
 If Arduino is pingable run the python script.
 
 Now the Motor should move a few steps. 
