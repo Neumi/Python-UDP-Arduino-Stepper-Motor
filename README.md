@@ -9,3 +9,6 @@ Assemble the Arduino Ethernet Shield and the Motor + driver as shown in the schc
 
 If Arduino is pingable run the python script.
 
+Now the Motor should move a few steps. 
+
+Have fun. Best regards.
